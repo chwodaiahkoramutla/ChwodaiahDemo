@@ -1,0 +1,9 @@
+{
+	"name": "ADFChwodaiahDemoGithub",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5716e01b-836c-4838-a576-47c00678efc4",
+		"tenantId": "1d3cfb8b-81f0-4d49-a533-74f973271e8f"
+	}
+}
